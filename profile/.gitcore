@@ -6,6 +6,7 @@ bin-release/
 
 # Other files and folders
 .settings/
+*.bb70cf567df6985f9e5faea11ab545042c1c9ee8
 
 # Executables
 *.swf
